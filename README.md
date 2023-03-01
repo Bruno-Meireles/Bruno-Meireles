@@ -1,17 +1,18 @@
 <h1> <br> 👋 Oi, eu sou @Bruno-Meireles</br></h1>
 
-  <br>🔭 Estudando Desenvolvimento web - front-end</br>
+  <br>🔭 Formado em Desenvolvimento web - front-end</br>
+  🔭 Estudande de Análise e Desenvolvimento de Sistema pela Estacio
    <br> 💬 contate-me no e-mail: bruno.meirelessilva90@gmail.com</br>
 
 
-Sobre
-Olá! Meu nome é Bruno Meireles. Estou cursando Superior de Tecnologia
-em Desenvolvimento Web - Back End na Faculdade Anhanguera,
-início em 2020. Conheci a plataforma de Cursos Alura há dois meses,
-e estou me dedicando aos cursos e formações 
-voltadas ao desenvolvimento profissional, para adquirir experiência
-na área de programação e me qualificar para ingresso
-na área com a qual me identifiquei muito, onde pretendo evoluir e me atualizar continuamente. Fico à disposição. 🧑🏻‍💻
+
+Sou programador Front-End, graduado em Desenvolvimento Web pela Faculdade Anhanguera, e cursando atualmente Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, com previsão de conclusão em junho/2025.
+
+Realizo projetos utilizando HTML, CSS, JavaScript, Tailwind CSS, SASS CSS, Linux, Bootstrap e  Github. Criação de Websites responsivos, criação de sistemas Web. Aluno das plataformas Alura, Oracle One e Digital Inovation One.
+
+Tenho experiência profissional na área de vendas e gerência, e com isso tive a oportunidade de me desenvolver muito profissionalmente. 
+
+Tenho habilidades de trabalho em equipe, comunicação e gestão, que me ajudarão bastante na área em que desejo trabalhar (TI).🧑🏻‍💻
 
 <!---
 Bruno-Meireles/Bruno-Meireles é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
