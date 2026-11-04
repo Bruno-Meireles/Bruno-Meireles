@@ -1,99 +1,62 @@
-<div align="center">
+# Bruno Meireles
 
-# Olá! Eu sou Bruno Meireles 👋
+**Desenvolvedor Full Stack** · React · Next.js · TypeScript · Node.js · Clean Architecture e Testes · Automação com n8n e IA
 
-### Desenvolvedor Front-End | React | Next.js | TypeScript | Integrações & Automação (n8n) | APIs
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-meireles-dev-front-end/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.meirelessilva90@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno-Meireles)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-meireles-dev/)
+[![E-mail](https://img.shields.io/badge/E--mail-brunomeireles.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brunomeireles.dev@gmail.com)
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou **Desenvolvedor Front-End** com experiência na construção de aplicações modernas e escaláveis utilizando **React**, **Next.js** e **TypeScript**.
+Desenvolvo aplicações web rápidas e automações que eliminam trabalho manual. Hoje atuo na **Agência Tupiniquim**, atendendo cerca de 40 clientes em um time de 3 desenvolvedores, do levantamento de requisitos à entrega.
 
-Atuo desenvolvendo interfaces integradas a **APIs REST**, com foco em performance, organização de código e experiência do usuário. Além do front-end, tenho forte atuação em **integrações entre sistemas e automação de processos**.
+- Elevei notas do PageSpeed de ~40 para 90+ otimizando Core Web Vitals
+- Automatizei os backups da agência com n8n, Supabase e SSH: de 1h para 10 min por cliente
+- Desenvolvo plugins WordPress, integrações via APIs REST e webhooks, e ferramentas internas para o time
+- Uso desenvolvimento assistido por IA no dia a dia, sempre com revisão e testes do código gerado
 
-- 🏢 Experiência na **Tupiniquim** (soluções digitais) e na **Compass UOL** (desenvolvimento e integração de APIs)
-- ⚙️ Trabalho com **WordPress** em ambiente corporativo — manutenção, plugins, melhorias e integrações com ferramentas de marketing e geração de leads
-- 🤖 Desenvolvo **automações com n8n** conectando sites, CRMs e plataformas via webhooks e APIs — fluxos de captura/envio de leads, rotinas de backup e muito mais
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** pela Estácio
-- 🎓 Pós-Graduação em **Full Stack Development** pela Impacta Digital (2026)
-- 🌱 Aprendizado contínuo em **Alura**, **Oracle ONE** e **DIO**
-- 💼 Background em **vendas e gerência** — comunicação, liderança e visão de negócio aplicados à TI
-- 🎮 Gosto de jogos nas horas vagas
-- 📬 **bruno.meirelessilva90@gmail.com**
+Antes da tecnologia, fui gerente no varejo liderando equipes de até 15 pessoas.
+
+**Formação:** Pós-graduando em Análise e Projeto de Software (UniAlphaville) · Graduado em Análise e Desenvolvimento de Sistemas (Estácio) e em Desenvolvimento Web (Anhanguera) · AWS Certified Cloud Practitioner
 
 ---
 
-## ⚡ Tecnologias & Ferramentas
+## Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,nestjs,php,postgres,supabase,prisma,vitest,docker,aws,wordpress,git,linux&perline=9" alt="Stack: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, NestJS, PHP, PostgreSQL, Supabase, Prisma, Vitest, Docker, AWS, WordPress, Git e Linux" />
+</p>
 
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Libs
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### Integrações & Automação
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Back-End & Banco de Dados
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
+Também trabalho com **n8n** (automações e integrações), **Playwright** (testes E2E), **TanStack Query** e **Clean Architecture**.
 
 ---
 
-## 📊 GitHub Stats
+## Projetos em destaque
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Meireles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Meireles&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+### [Mani Meet](https://github.com/Bruno-Meireles/mani-meet-app) · [demo](https://mani-meet-app-three.vercel.app/)
+Sistema white-label de agendamento online para salões, com site público e painel administrativo completo.
+Reserva atômica no banco (sem horários duplicados), segurança com RLS e Zod, arquitetura em camadas com fronteiras validadas por lint, testes com Vitest e CI no GitHub Actions.
+`TanStack Start` `React 19` `TypeScript` `Supabase` `Tailwind CSS` `shadcn/ui`
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Meireles&theme=tokyonight" alt="Bruno-Meireles" />
-</div>
+### [SmartMarket](https://github.com/codetradeai/smartmarket)
+Comparador de preços entre 8 redes de supermercado, projeto final em equipe da trilha Dev Full Stack + IA (+praTI). Fui responsável pelos testes automatizados do front-end e do back-end.
+`React 19` `Vite` `Spring Boot` `Python` `Docker` `GitHub Actions`
 
----
+### [Speed Link Diagnose](https://github.com/Bruno-Meireles/speed-link-diagnose)
+Ferramenta interna que gera relatórios de performance de sites com dados do PageSpeed Insights.
 
-## 🚀 O que faço
-
-- 🖥️ Desenvolvimento de **aplicações modernas** com React, Next.js e TypeScript
-- 🔌 Integração com **APIs REST** e construção de interfaces escaláveis
-- 🤖 **Automação de processos** com n8n — webhooks, CRMs, captura de leads e rotinas de backup
-- 🌐 Manutenção e evolução de sites em **WordPress** com foco em marketing e conversão
-- 🎨 Interfaces responsivas com **Tailwind CSS**, **Bootstrap** e **SASS**
-- 📈 Visão orientada a negócio — soluções com impacto real em **eficiência, conversão e escalabilidade**
+### [AutoForm](https://github.com/Bruno-Meireles/Bruno-Meireles-Autoform)
+Ferramenta que preenche formulários automaticamente durante testes, agilizando o trabalho do time.
 
 ---
 
-<div align="center">
+## Atividade no GitHub
 
-⭐ **Se algum projeto te ajudou, deixa uma estrela!** ⭐
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bruno-Meireles.Bruno-Meireles)
-
-</div>
+<p align="center">
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Resumo de contribuições" />
+</p>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/transparent/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img height="180" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Linguagens com mais commits" />
+</p>
